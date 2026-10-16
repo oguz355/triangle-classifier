@@ -73,4 +73,4 @@ The customer's request: *"If it's not a valid triangle, show a message, don't cr
 ## AI-use disclosure
 **GitHub Copilot (VS Code inline suggestions):** drafted the body of every test in `test_triangle.py`. I checked each suggestion against the spec table. All 9 only checked `is_valid_triangle`, so I edited each one to also check `classify_triangle`'s result.
 
-**Claude (Anthropic):** wrote `triangle.py` and `test_acceptance.py`; helped me review Copilot's suggestions and wrote the corrections; assisted putting together this README. Rewrote my acceptance criteria in better wording. 
+**Claude (Anthropic):** wrote `triangle.py` and `test_acceptance.py`; helped me review Copilot's suggestions and wrote the corrections; assisted putting together this README. Approved of my acceptance criteria.  
